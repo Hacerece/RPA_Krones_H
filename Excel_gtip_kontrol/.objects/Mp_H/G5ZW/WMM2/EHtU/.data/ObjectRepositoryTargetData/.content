@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="E5bQ5UhyMkiVmmYXFK_9Sw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="6946ac4f-3366-4af4-883a-c133756a8ad0" CvElementArea="618, 182, 70, 26" CvType="InputBox" DesignTimeRectangle="619, 183, 72, 25" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;wnd aaname='Sayfa 1' cls='TcxTabSheet' title='Sayfa &amp;amp;1' /&gt;&lt;wnd cls='TEvrDBYIFirmaEdit' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Sayfa 1' cls='TcxTabSheet' title='Sayfa &amp;amp;1' /&gt;&lt;wnd cls='TEvrDBYIFirmaEdit' /&gt;" Guid="65b1c3ee-569a-4b23-968f-e114b38198c5" ScopeSelectorArgument="&lt;wnd app='ithalsql.exe' cls='TFormMain' title='İthalat Sistemi (v.11.23.2.0) (21.04.2025 16:32:34) Sirket No :2*' /&gt;&lt;wnd cls='TFormGGB' title='İthalat Beyannamesi' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="TopRight" X="-10" Y="9" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="f0d3caa7391656a3c6d97e3e39fa7c82.png" xmlns="">0syq6kaITIES5ax3S3O7Z5Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

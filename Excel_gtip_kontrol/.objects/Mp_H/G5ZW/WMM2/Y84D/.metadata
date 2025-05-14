@@ -1,0 +1,14 @@
+﻿{
+  "Name": "'TEvrDBYIFirmaEdit'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "Y84D892QFEihR5_UNTHp7w",
+  "Reference": "f1ksmeFaQkKLJoco8mB8Ng/Y84D892QFEihR5_UNTHp7w",
+  "ParentRef": "f1ksmeFaQkKLJoco8mB8Ng/WMM2wU_CT06PRxiUDbWAiw",
+  "Created": "2025-05-07T13:43:08.1287032Z",
+  "Updated": "2025-05-07T13:43:08.1287032Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

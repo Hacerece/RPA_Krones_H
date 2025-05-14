@@ -1,0 +1,12 @@
+﻿{
+  "Name": "İthalat Beyannamesi",
+  "Type": "Screen",
+  "Id": "F310X5O_hkmAQC9cED-gqQ",
+  "Reference": "f1ksmeFaQkKLJoco8mB8Ng/F310X5O_hkmAQC9cED-gqQ",
+  "ParentRef": "f1ksmeFaQkKLJoco8mB8Ng/G5ZW7UN5YEySTza146n2ZQ",
+  "Created": "2025-05-06T11:18:04.5677362Z",
+  "Updated": "2025-05-06T11:18:04.5677362Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

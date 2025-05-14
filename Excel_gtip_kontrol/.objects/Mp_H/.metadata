@@ -1,0 +1,11 @@
+﻿{
+  "Name": "İthalat Beyannamesi app",
+  "Type": "App",
+  "Id": "Mp_Hb33q50upxnOiWuM0HQ",
+  "Reference": "f1ksmeFaQkKLJoco8mB8Ng/Mp_Hb33q50upxnOiWuM0HQ",
+  "Created": "2025-05-06T11:18:04.5060805Z",
+  "Updated": "2025-05-06T11:18:04.5060805Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

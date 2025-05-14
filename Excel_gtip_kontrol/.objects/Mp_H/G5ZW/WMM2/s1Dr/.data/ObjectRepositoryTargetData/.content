@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SWMmOYjL_k6_EDalHw2QBw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="eb9d62a6-59ab-4ed6-a33f-9bc46af95a55" CvElementArea="912, 481, 263, 26" CvType="InputBox" DesignTimeRectangle="915, 483, 260, 24" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;wnd aaname='Sayfa 1' cls='TcxTabSheet' title='Sayfa &amp;amp;1' /&gt;&lt;wnd cls='TEvrDBLookUpComboBox' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Sayfa 1' cls='TcxTabSheet' title='Sayfa &amp;amp;1' /&gt;&lt;wnd cls='TEvrDBLookUpComboBox' /&gt;" Guid="02f86200-5e40-441d-a281-fb9e4be68063" ScopeSelectorArgument="&lt;wnd app='ithalsql.exe' cls='TFormMain' title='İthalat Sistemi (v.11.23.2.0) (21.04.2025 16:32:34) Sirket No :2*' /&gt;&lt;wnd aaname='Çalışma alanı' cls='MDIClient' /&gt;&lt;wnd cls='TFormGGB' title='İthalat Beyannamesi' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b542cd9533687ef584b22138f5fef3ce.png" xmlns="">05VRCKejLOEqdBum5rTOoNw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

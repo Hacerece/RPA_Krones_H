@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="L7fPy4U_GE-lxouMtUbwHw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="0d0133b9-b871-4528-8a1e-1fa80b3b048d" CvElementArea="241, 47, 139, 26" CvType="InputBox" DesignTimeRectangle="243, 48, 137, 24" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;wnd cls='TEdit' idx='3' /&gt;" FuzzySelectorArgument="&lt;wnd cls='TEdit' check:text='KRONES' /&gt;" Guid="29203ae8-bbeb-4aad-9efb-5d9876837d23" ScopeSelectorArgument="&lt;wnd app='ithalsql.exe' cls='TFormGonderen' title='Yurtiçi Müşterileri' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="-7" Y="1" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="5abd31a87a08ce472be9033ed192e29a.png" xmlns="">0iALG9xuC8UWZOyYxfcNfoA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Element 'TEvrDBYIFirmaEdit'",
+  "Type": "Element",
+  "Id": "NZoBpbY1ZUC4yPFCSQweWg",
+  "Reference": "f1ksmeFaQkKLJoco8mB8Ng/NZoBpbY1ZUC4yPFCSQweWg",
+  "ParentRef": "f1ksmeFaQkKLJoco8mB8Ng/WMM2wU_CT06PRxiUDbWAiw",
+  "Created": "2025-05-07T13:49:44.9500768Z",
+  "Updated": "2025-05-07T13:49:44.9500768Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

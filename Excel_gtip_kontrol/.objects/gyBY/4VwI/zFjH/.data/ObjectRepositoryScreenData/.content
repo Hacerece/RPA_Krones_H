@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="mBQAO1B6nUS-ji-a_0rHPw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1048" FilePath="\\10.34.202.3\evrim\Exe\ithalsql.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAE+SURBVFhHxZBhosIgDIM5ukfbzeZAU0NJC76n+OPTmaZJZym32/lTpLgTKe5Eihs4z9L42gEoaCXBrJQNBzxKXkcMOi/9BQRasNO5XOo8nIHljBrMz3yA1DFU2AI9eyzsifJ4rLxiD47OjAU8X8iwaNf7eYcXB7yZ6AIjnWaRvzsAJg972OdLhtmCPvwDMJr5jRLMsp02Jz08QIVIz4JuIJPnbEBAFtLNlSfSFTWJhWm494j5EpZyAbELnpSbT3hCum0CBkgr5ZlvYNh0VBN+Zm/fwHzm44I5oyRDZwwpE+xF6jK/FfAFChWc4TqO47i+VfAMFR4hSpn1A1R4xKSUyQ9Q4RmLpYw+QIVHUOk7xeB1gAqP+Gcpc62LAsUHS5nSPlQh8+FSph1gP1Q52HGAib8+AOw4Ij0AfO+A47wDFZyGPHAu3TEAAAAASUVORK5CYII=" Selector="&lt;wnd app='ithalsql.exe' cls='TFormMain' title='İthalat Sistemi (v.11.24.2.1) (5.05.2025 18:09:34) Sirket No :25*' /&gt;" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="db00a77e57d6d24a16c3014aa8d22484.png" xmlns="">0BCsHY0iLGU2yVH5am-oMag</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

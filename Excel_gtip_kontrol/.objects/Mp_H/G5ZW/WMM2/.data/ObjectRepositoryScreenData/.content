@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="khoNEhDYtUKo7yvJiX0pLg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="252, 46, 1677, 937" FilePath="\\10.34.202.3\evrim\Exe\ithalsql.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGYSURBVFhH3Y9ReoMwDIM5eo/GzViS4Uy2ZeJ8Bcr68LeNLUvqsrxe26OhwydBh0+CDp8EHX6YbVs6txbE4BY+0CzLBwv+huuSbndFQSzRA8nOlsN9L1fnVvQuWKIHkt3lBTFsRA2zb1vQ7WSPooh+DL8jVMAO00W0G8xXD4M7xGN5F5wOPASniW7tvXpEsEPAhQT77gOa0e3/K4gHFqu1ehtuNWzv7mHXcIMCHvVDYm61NGDXRB5433Swa7hBoYsDU0SZE93RThFlqUfBBR4YO12kHfiEVHc7lFAVbDSC00XagU9IdbfDdGjBaYlmmu66IwscZwJn9SHKiSBCHB+FoU7pZwtSJ0IV4ygdJjqE6QSVMkE9xlEqrILFMjcqZQoyKtCQGahrEvXHq5kaADZ0BAvLQvLXdS3fLGgGFpYhKGSZL8jCMiQLWb6kIAvMMlnIEhdkYRmg0DvFhL+CLCzDyYUsxY6EHmHKnF3IUuxJiSNMucsLtg9WhHFTKaQVVANWDPl0QYGWqzylIBIVZdqz+Y6Cwv0F1+0HZUPh74rbLosAAAAASUVORK5CYII=" Selector="&lt;wnd app='ithalsql.exe' cls='TFormMain' title='İthalat Sistemi (v.11.24.2.1) (5.05.2025 18:09:34) Sirket No :25*' /&gt;&lt;wnd aaname='Çalışma alanı' cls='MDIClient' /&gt;&lt;wnd cls='TFormGGB' title='İthalat Beyannamesi' /&gt;" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="e9fab08b3d5fb92505de9ea63a9f4d23.png" xmlns="">0r0OKUun4-UyH-CQmWyAJMg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

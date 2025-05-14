@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Element 'TEvrDBLookUpComboBox'(1)",
+  "Type": "Element",
+  "Id": "h6FgRB-2dkyRBMzNKDCP8A",
+  "Reference": "f1ksmeFaQkKLJoco8mB8Ng/h6FgRB-2dkyRBMzNKDCP8A",
+  "ParentRef": "f1ksmeFaQkKLJoco8mB8Ng/WMM2wU_CT06PRxiUDbWAiw",
+  "Created": "2025-05-08T07:51:27.7679365Z",
+  "Updated": "2025-05-08T07:51:27.7679365Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

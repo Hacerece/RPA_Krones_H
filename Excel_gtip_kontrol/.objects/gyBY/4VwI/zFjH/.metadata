@@ -1,0 +1,12 @@
+﻿{
+  "Name": "İthalat Sistemi (v.11.24.2.1) (5.05.2025 18:0",
+  "Type": "Screen",
+  "Id": "zFjHO4hNeUS_pNTNIP6m7A",
+  "Reference": "f1ksmeFaQkKLJoco8mB8Ng/zFjHO4hNeUS_pNTNIP6m7A",
+  "ParentRef": "f1ksmeFaQkKLJoco8mB8Ng/4VwINQ6gg0mkk0IyZWLIWw",
+  "Created": "2025-05-13T12:21:18.0826637Z",
+  "Updated": "2025-05-13T12:21:18.0826637Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

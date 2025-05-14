@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_qkDnLDKnEeM9V7PmjYl3Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="32843940-aa71-4fa3-b420-48d36f32d619" CvElementArea="241, 47, 139, 26" CvType="InputBox" DesignTimeRectangle="243, 48, 137, 24" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;wnd cls='TEdit' idx='3' /&gt;" FuzzySelectorArgument="&lt;wnd cls='TEdit' /&gt;" Guid="6860926b-d1b7-4b25-a2f5-e5cc7ec65647" ScopeSelectorArgument="&lt;wnd app='ithalsql.exe' cls='TFormGonderen' title='Yurtiçi Müşterileri' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="88ee6d061bc384ab2c0f69868f493a36.png" xmlns="">0QUXtLxzImEak_Jda5e36Dw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
